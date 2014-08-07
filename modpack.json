@@ -18,8 +18,8 @@
     },
     "tweakers": [
         {
-            "server": "cpw.mods.fml.common.launch.FMLServerTweaker",
-            "client": "cpw.mods.fml.common.launch.FMLTweaker"
+            "server": "cpw.mods.fml.common.launcher.FMLServerTweaker",
+            "client": "cpw.mods.fml.common.launcher.FMLTweaker"
         }
     ]
 }
