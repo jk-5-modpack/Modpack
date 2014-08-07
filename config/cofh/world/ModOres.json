@@ -1,0 +1,21 @@
+{
+    "aluminum": {
+        "template": "uniform",
+        "block": "TConstruct:SearedBrick",
+        "metadata": 5,
+        "clusterSize": 7,
+        "numClusters": 15,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

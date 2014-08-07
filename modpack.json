@@ -1,0 +1,12 @@
+{
+	"name": "jk-5-modpack 1.7.10",
+	"libraries": [
+		{
+			"path": "files/mods/somemod.jar",
+			"rev": 0
+		}
+	],
+	"tweakers": [
+		"cpw.mods.fml.common.launch.FMLTweaker"
+	]
+}
