@@ -6,11 +6,6 @@
             "name": "org.javassist:javassist:3.18.2-GA"
         }
     ],
-    "mods": [
-        "1.7.10/CodeChickenLib-1.7.10-1.1.1.98-universal.jar",
-        "1.7.10/ForgeMultipart-1.7.10-1.1.0.300-universal.jar",
-        "AsieLib-1.7.10-0.2.6.jar"
-    ],
     "repositories": [
         "http://maven.reening.nl/",
         "http://repo1.maven.org/maven2/",

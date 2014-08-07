@@ -1,5 +1,6 @@
 #! /bin/bash
 
-rm -f config.zip
-zip -r config.zip config/
+rm -f data.zip
+zip -r data.zip config/
+zip -r data.zip mods/
 
