@@ -1,0 +1,15 @@
+{
+    "mcversion": "1.7.10",
+    "forge": "10.13.0.1199",
+    "libraries": [
+        {
+            "name": "org.javassist:javassist:3.18.2-GA"
+        }
+    ],
+    "repositories": [
+        "http://maven.reening.nl/",
+        "http://repo1.maven.org/maven2/",
+        "http://files.minecraftforge.net/maven/",
+        "https://libraries.minecraft.net"
+    ]
+}
