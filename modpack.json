@@ -423,395 +423,395 @@
             "files": [
                 {
                     "path": "mods/resources/ruins/generic/AlchemistsDungeon.tml",
-                    "checksum": "6f9e56b08c6e89d21a3f108bf92cc8f3"
+                    "checksum": "c0ac13bca4e1900428980f9d5a45b9bc"
                 },
                 {
                     "path": "mods/resources/ruins/generic/Altar.tml",
-                    "checksum": "16e1ed69de04c748a57fbc654e1df127"
+                    "checksum": "d6c93f646b3317fe41b2cbeb30e64414"
                 },
                 {
                     "path": "mods/resources/ruins/generic/AncientFountain.tml",
-                    "checksum": "4304db044c33edcef13c339d04975226"
+                    "checksum": "1303afbd42e12bc3fbf6dbd82deba75a"
                 },
                 {
                     "path": "mods/resources/ruins/generic/Archway.tml",
-                    "checksum": "ae0b4daad76e544cafcb6863cad68217"
+                    "checksum": "89d37142f3e7bc566256bc1a8cf70d9e"
                 },
                 {
                     "path": "mods/resources/ruins/generic/ArrowTrapTomb.tml",
-                    "checksum": "234eda3b098d1aed8bcded4b09fb5752"
+                    "checksum": "2c1eda4788ad88b5d4ffe2e68aafc4e8"
                 },
                 {
                     "path": "mods/resources/ruins/generic/Barn-intact.tml",
-                    "checksum": "80b7c33a100413c7b999ff621eb7cccb"
+                    "checksum": "2e2a31c44b39bbfb4ac89f94c56b458b"
                 },
                 {
                     "path": "mods/resources/ruins/generic/CastleModified.tml",
-                    "checksum": "1d7e12786a4e0bb9214e0d9b3580ca12"
+                    "checksum": "ecaea50a20e057abf62e62d655137776"
                 },
                 {
                     "path": "mods/resources/ruins/generic/CaveSpiderBurrow.tml",
-                    "checksum": "b2da5c8ce51f68eb572f1c2d38385cd1"
+                    "checksum": "f58aaf5f7ba14c329101067f3fc01e9d"
                 },
                 {
                     "path": "mods/resources/ruins/generic/EmeraldOreOutcrop.tml",
-                    "checksum": "4ac3aa615e6e1b63bd69d510a476acb1"
+                    "checksum": "eab05a332db25afbe1aa97bb3ba1eaad"
                 },
                 {
                     "path": "mods/resources/ruins/generic/Floater.tml",
-                    "checksum": "b4c13f79a1d2a9898fe30ea9f2f6be82"
+                    "checksum": "7b876153976c6997f46fb6d069fe1039"
                 },
                 {
                     "path": "mods/resources/ruins/generic/Mausoleum.tml",
-                    "checksum": "20b375eb57e86fb359daa21dbf08ef8c"
+                    "checksum": "1bef7882629d6dbf9538a81a3ec2f5ac"
                 },
                 {
                     "path": "mods/resources/ruins/generic/Melonfield.tml",
-                    "checksum": "f285b0d723ad0596ebbfd0146587f989"
+                    "checksum": "c8e9b9d7dfd2b71bfe74b348e7d4b23f"
                 },
                 {
                     "path": "mods/resources/ruins/generic/MinersHut.tml",
-                    "checksum": "6a46133a5db30d639b1d5903d1cab37d"
+                    "checksum": "501fd98719930831e2c2ef94607067ac"
                 },
                 {
                     "path": "mods/resources/ruins/generic/MoaiHead.tml",
-                    "checksum": "36875ab4210e887b662dd51bc599008a"
+                    "checksum": "b7c12a4254a66e62b989a6ce50b60b1b"
                 },
                 {
                     "path": "mods/resources/ruins/generic/OreSpire.tml",
-                    "checksum": "55728becc6bd942a4cbb685b6fa9097e"
+                    "checksum": "ba9a936366807bc7781430d73443344e"
                 },
                 {
                     "path": "mods/resources/ruins/generic/Outcrop.tml",
-                    "checksum": "133165ab21daf8c94eb68c4728a9d743"
+                    "checksum": "8fcca91842b4b7d69950c202104ad320"
                 },
                 {
                     "path": "mods/resources/ruins/generic/PirateShip.tml",
-                    "checksum": "9ef5eb214f4e3091467ccf2980d0cb85"
+                    "checksum": "4a40137f8d7b476b4a5cf73b35354c9d"
                 },
                 {
                     "path": "mods/resources/ruins/generic/PumpkinField.tml",
-                    "checksum": "4f15989ce1e52b6ccff632f71754d45b"
+                    "checksum": "b6ae6266626c33441c4334876cc3b631"
                 },
                 {
                     "path": "mods/resources/ruins/generic/RuinedSmallFountainDiagonal.tml",
-                    "checksum": "9a01b52a72800fa96183e89f66f01c77"
+                    "checksum": "482cefa7cded5d37a4a7d260d3699099"
                 },
                 {
                     "path": "mods/resources/ruins/generic/SkeletonHeadStatue.tml",
-                    "checksum": "dc41b9ff67e1d8d7df4a2bea829db387"
+                    "checksum": "cfbd688e7d5d6aea2488fadda6035671"
                 },
                 {
                     "path": "mods/resources/ruins/generic/StoneGrill.tml",
-                    "checksum": "357a817b7927bc1433e3c3866f576767"
+                    "checksum": "c66f03dc90f0d9e662078ff9a4d81a4c"
                 },
                 {
                     "path": "mods/resources/ruins/generic/StoneHouseMruined.tml",
-                    "checksum": "3f1d87559a569ae03e595da994691948"
+                    "checksum": "0f2a0de732f855c4569c555258726495"
                 },
                 {
                     "path": "mods/resources/ruins/generic/StonePillar.tml",
-                    "checksum": "3d5d90a3208e280004fe77bdb3347d9c"
+                    "checksum": "4c933b686ab415683dc16a91958b39bd"
                 },
                 {
                     "path": "mods/resources/ruins/generic/TinyFarmField.tml",
-                    "checksum": "8435ff6339816b50cad7617c1b66ac32"
+                    "checksum": "9c63cb810d1a8a3adaf6169cb0688b98"
                 },
                 {
                     "path": "mods/resources/ruins/generic/VolcanicVent.tml",
-                    "checksum": "24b4065a7c24fe3edd36a3291def04a6"
+                    "checksum": "4e27f07472e6d9eff5b6f78cdb0a5105"
                 },
                 {
                     "path": "mods/resources/ruins/generic/ZombieHut.tml",
-                    "checksum": "088020a726258a451bcf265aa5465991"
+                    "checksum": "bfb246934ff199a92d582e8eb9b2f5ad"
                 },
                 {
                     "path": "mods/resources/ruins/jungle/JungleThroneWood.tml",
-                    "checksum": "1c7340d88f45ad16589c44c57b1c95eb"
+                    "checksum": "4241139a9bfec79b44285c12e3c7f92f"
                 },
                 {
                     "path": "mods/resources/ruins/jungle/JungleTreePlatform.tml",
-                    "checksum": "4081a7cc601aa81381e2d598413118da"
+                    "checksum": "596f0b92143549196cd60915ca218aa4"
                 },
                 {
                     "path": "mods/resources/ruins/jungle/JungleTreePlatform_edit.tml",
-                    "checksum": "48af55becfc0f33594f979422c63b249"
+                    "checksum": "9fed8b5589079eb24ebed46d382216c7"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/badlands/AlchemistsDungeon.tml",
-                    "checksum": "4dda925fbca73a283024fb09f685d139"
+                    "checksum": "ce2c744dbcd3f8b0d51210feb7f50231"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/badlands/BattleBasementEasy.tml",
-                    "checksum": "140094e43e84f1815434228363625dc0"
+                    "checksum": "968eba940bf60358460ba30cf9bba4fe"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/badlands/BattleBasementHard.tml",
-                    "checksum": "c3b526cb974194aa9cdd34149b7e2b11"
+                    "checksum": "e3bdc3ee31796c8c48bcf7f8f6c47784"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/badlands/BattleBasementMedium.tml",
-                    "checksum": "1f1494c9d66d7ba029de37cf85444306"
+                    "checksum": "b93828aedfb697a24ea17a3f6cd42654"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/badlands/DwarfBase-mtn.tml",
-                    "checksum": "89d7a0a37d66432e1977d83dc92cefd3"
+                    "checksum": "2cbe3c33b48c03ded5936bd4f403c0f4"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/badlands/FlamingSkullHouse.tml",
-                    "checksum": "7f8d2e9adcafe9a8526396f81d993a30"
+                    "checksum": "a3231fe2e682e5f4220aa643bb57f4c4"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/badlands/Gnomeworks.tml",
-                    "checksum": "4d855bf5adacb67baad040bd2837b451"
+                    "checksum": "486ccbba89023de2dc8248cfd46c711a"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/badlands/GoldWell.tml",
-                    "checksum": "bc0b9d16b09bc7e84386ff893617452b"
+                    "checksum": "52d60a55821107bb13be4d3d4ad3295a"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/badlands/MobTower.tml",
-                    "checksum": "8f3f434d0b8498e1c46b68643f5456c4"
+                    "checksum": "618843d643ea9691deb66f20ae71c5d0"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/badlands/Orthanc.tml",
-                    "checksum": "2c0885b5f355433bac56579ee4839322"
+                    "checksum": "70a0a00c36d38383d8ac4e345f320c68"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/badlands/Pit-big.tml",
-                    "checksum": "f17499c5745e4d59ca7e9afd8109e301"
+                    "checksum": "f1bc1bda5f5a39b13ab903804d26430c"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/badlands/Pit-med.tml",
-                    "checksum": "9335f7788d7291fe0de180427d9b7f8a"
+                    "checksum": "c164cdcd5a46a1de8e5184f71a4fead6"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/badlands/Pit-small.tml",
-                    "checksum": "35d238668fb7fae19e1addf7b9063ef0"
+                    "checksum": "fc01b49f324cc184ad3b16a2cd957687"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/badlands/TowerHard.tml",
-                    "checksum": "bf6f7e926be2a9fdb4a8b77994e31e9a"
+                    "checksum": "ef52dcc3f209a9d19367f7d11321a9df"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/badlands/VolcanicVent3_good.tml",
-                    "checksum": "b56c75c40c507738ebacd34bb0bf49cd"
+                    "checksum": "e8c8c6dd5bdef6aef4410bfe205a152f"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/beach/LightHouse.tml",
-                    "checksum": "85977774a8a614eedda62313f8b17024"
+                    "checksum": "156ae1d1fcc66f0c1aee9b27de99e96e"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/DesertBarrow.tml",
-                    "checksum": "4e164596e92535329688dec18a58d975"
+                    "checksum": "d1d299ff5b6c808aa22abe915c83a17b"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/DesertPanthenon.tml",
-                    "checksum": "79ea1c5b47044fc7b7fb7da136b0c69d"
+                    "checksum": "cff47d75d0c013cdaa50d8f41648d9c9"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/DesertPanthenonRuined.tml",
-                    "checksum": "d6c83dd50875ee3a34b0988b98204e6f"
+                    "checksum": "7e412e46d9ea90ef8ee4ddc5e9916216"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/DesertSmallFort_Intact.tml",
-                    "checksum": "cb0a776b668854e5c0ac7e15e2d5cccb"
+                    "checksum": "a949749b133d4ca6b72ed452b6483ddd"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/DesertSmallFort_Ruined.tml",
-                    "checksum": "c94001459648dfbd7c0e1e3b4ba65955"
+                    "checksum": "a0aa76f10e00cecf6732ff42a651d381"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/DiamondWell.tml",
-                    "checksum": "71ae2d84ecf3069ad3b0d309252bbf29"
+                    "checksum": "5a63997457db4d0c2582bc7b3f842878"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/LargeSandstoneHouse.tml",
-                    "checksum": "80098caa8ed57fa66da915f764a59c2a"
+                    "checksum": "88938cfa4a7a7062836e8ca1a128e12e"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/littlepyramid.tml",
-                    "checksum": "bbfe308c00bc3df070246c25127494da"
+                    "checksum": "9d29bb02b966c6e60503c2d7e74c8ce3"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/Monolith.tml",
-                    "checksum": "1173045cd86b01cf86b3b91a98cf2517"
+                    "checksum": "a1fcdcb06d0326e2867983141fcb9aea"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/Obelisk.tml",
-                    "checksum": "dd670e50b12577b1bffb41006e292bc9"
+                    "checksum": "2c742dac8ac862699b74541cffee6896"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/Pyramid.tml",
-                    "checksum": "49e20c1331e7c3a5b185fc1d72c50fb8"
+                    "checksum": "873c8a115eaf81bf000a6ef8485a7014"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/RuinedDryFountain.tml",
-                    "checksum": "93c8e3fadc58f99b05aa4ff968c085e2"
+                    "checksum": "0726b8212c7adc0ad994d677d0dbc04c"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/RuinedSmallFountainDiagonal.tml",
-                    "checksum": "4403a99b9ca07e674823ac21014d5dd4"
+                    "checksum": "a38dce4aa8e525779d49169a417ab21f"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandCastle.tml",
-                    "checksum": "512979e21812f458639f0fc88ae70b58"
+                    "checksum": "d573460fa431e8af1679e8f7a712d9a7"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandSpire.tml",
-                    "checksum": "14bd8081543b927cbc829b0274f4db24"
+                    "checksum": "7eac2036a796f61cc703ea13c28280b7"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneBld1_Intact.tml",
-                    "checksum": "f7b9cda2d3840a7786e3f9b89bd31153"
+                    "checksum": "c04d9849e52c5272a27262ab07e8f8e3"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneBld1_Ruined.tml",
-                    "checksum": "9fb6804b70666e608b0fadab75bd3da8"
+                    "checksum": "0abed0e6a1459d32e3546debaee86915"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneBld2_Intact.tml",
-                    "checksum": "44a5a31d58f5abc51cd969aa9c605aa4"
+                    "checksum": "bf49f327e9c262ddc59005c918d45910"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneBld2_Ruined.tml",
-                    "checksum": "9299c3a80f818249d2d379a41d3675ed"
+                    "checksum": "21932150dc033495d07083e28ae2b146"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneBld3_Intact.tml",
-                    "checksum": "3a9af816ab64dd50182e3b7e56b1c7fa"
+                    "checksum": "bb4e0112641a561ddd0de01a5a7a08da"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneBld3_Ruined.tml",
-                    "checksum": "5fa4a0d8b89037f4ec238c9e0e51e75e"
+                    "checksum": "e31a8a8e2721422b994a3130c8177e78"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneBld4_Intact.tml",
-                    "checksum": "95edbccaf9829246b41893dd99960ef6"
+                    "checksum": "60d1dfd8d564e4b6ba8275f4cfa46890"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneBld4_Ruined.tml",
-                    "checksum": "60fa4b4bc343f89f207511a4ac61f32a"
+                    "checksum": "42a7ae53fc2aed5ec974d513e7a81eb9"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneBld5_Intact.tml",
-                    "checksum": "788ea4bd544fe1a99ffe706e4fd343e1"
+                    "checksum": "8a5fc96b97affffbcf89a616bd3e05d0"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneBld5_Ruined.tml",
-                    "checksum": "5fa09c61302a9dccdf6e5f22746bbfe7"
+                    "checksum": "0fb9350151a448f3644582e8b8a520cc"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneBld6_Intact.tml",
-                    "checksum": "c9579333588dbb450fc8699de1915d65"
+                    "checksum": "71bb212d697290c2337ea6b83b6955b8"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneBld6_Ruined.tml",
-                    "checksum": "01a8f7d9886d7feef4e9029504ed8c22"
+                    "checksum": "e2872310fbfb65fdfdc328ff0f1f34da"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneHouse.tml",
-                    "checksum": "7b158fa4c3b6fa840ffa251dc5082284"
+                    "checksum": "0eb93603ed58b55b398263fcadc90559"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneHouse1_Intact.tml",
-                    "checksum": "d4ad9dcc22afd28181567079d8dc2734"
+                    "checksum": "b0200b397af42b16a7a70432dc9802cb"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneHouse1_Ruined.tml",
-                    "checksum": "a1daa1b2414a8c58a42f9884c5533961"
+                    "checksum": "65b9978ac8f771a6fe8c658e981442e0"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneHouse2_Intact.tml",
-                    "checksum": "9145f6b15ebd3255e7419a4d34ee38e4"
+                    "checksum": "5394605b0eb74ff39dd7443a9f182ad1"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneHouse2_Ruined.tml",
-                    "checksum": "7dbf4938cf2f7f0467666214c1793863"
+                    "checksum": "fc0b345063929f02d20dbd0b46f18e88"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneHouse3_Intact.tml",
-                    "checksum": "83b2d06288be8a7557bb9f16224b4207"
+                    "checksum": "6fa498e78dd97a91ead1bd6d5aba12c8"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneHouse3_Ruined.tml",
-                    "checksum": "c83a0776839525fecf7c1752f4b7cb1d"
+                    "checksum": "458ddbf01a88f16329c2bd09ae4d28d6"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstonePool_Intact.tml",
-                    "checksum": "b92b0a09c6f5ed19c54961d80f10bd87"
+                    "checksum": "00741c561dbac4555d239b821e90aeec"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstonePool_Ruined.tml",
-                    "checksum": "d275f02699ee418e51d3d1de726d07a9"
+                    "checksum": "66a6566cba74f8587f63b5548301c8a2"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneRuin.tml",
-                    "checksum": "aaa931914224d2e03117688e5f2d8ed3"
+                    "checksum": "1b43022cbc61b99d4451f05c8e735969"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneStructure1_Intact.tml",
-                    "checksum": "4ec3e388bad1ea5808b318fd4807018b"
+                    "checksum": "87e2b077c7a1f23c97e0debdae0b706e"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneStructure1_Ruined.tml",
-                    "checksum": "169744135705c2117f1154d235af8ffc"
+                    "checksum": "44a6858b478eb10e81f919eab21a07ef"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneStructure2_Intact.tml",
-                    "checksum": "498c123f1f74e11369d688d81474683b"
+                    "checksum": "0ade70fcb6aa72be467c97290fa801ff"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneStructure2_Ruined.tml",
-                    "checksum": "0b339265c9bbaea482fbfa2d2d0e1f18"
+                    "checksum": "549fd45ee10486b3aa756c519f4f2873"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneVanillaL-Modified.tml",
-                    "checksum": "05dc86bd344312e2e865bafbc3ac841c"
+                    "checksum": "4795577b908f9aaac2f8ba47ed41c07f"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandstoneVanillaS-Modified.tml",
-                    "checksum": "278a6b3fc6a8ab336ce8607e42f3d564"
+                    "checksum": "151c10643f116a3291ffaa30c4158eec"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/SandTrap.tml",
-                    "checksum": "e9e160d65949d23e6a77cdbf618f8443"
+                    "checksum": "fe52c2585dc966f5a00fbf6b4b074a6a"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/desert/Ziggurat.tml",
-                    "checksum": "f626bb462a0a4a43c1f20fcebdfa2f56"
+                    "checksum": "00d1132f85b1b2d1b3dc1251c6918f15"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/forest/SpiralTree.tml",
-                    "checksum": "161a6aff372d448047b9ea862b00c65d"
+                    "checksum": "c38357dc18c48abfe076ee8403c5d174"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/forest/TreeDungeon.tml",
-                    "checksum": "b7c85781da2b65e968eb3af9dd953b88"
+                    "checksum": "5667e622220d4549fe2a4a4f6d42011a"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/forest/TreeHouse.tml",
-                    "checksum": "cbb52cb9931494180d124f15dd1fbba4"
+                    "checksum": "63ce948362c2629097f7b55d3cc21ec2"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/frozenocean/TP_FishingShack.tml",
-                    "checksum": "13398cea7c7a8d663f91872171c504ef"
+                    "checksum": "54e3ed5f3ed738091753b21e627fe9cb"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/generic/Piston-CreeperRoom.tml",
-                    "checksum": "56da3f68779d6c0d84f0746c35a60962"
+                    "checksum": "be0bdfddae60a33c02aee0bd50414b0b"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/generic/Piston-LavaTrap.tml",
-                    "checksum": "dc904060643fb307fdbf207ab734f8f7"
+                    "checksum": "ee0623cd6d7cdcc67e3c57a427af3edf"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/generic/SmallWell.tml",
-                    "checksum": "dc5b3b16d33d9e724b53830d5e14d2e9"
+                    "checksum": "4546e671e09c2447aa9288fdb8364667"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/jungle/PyramidStone.tml",
-                    "checksum": "d68d90731255cbd7f2c69591e2180d76"
+                    "checksum": "7d52fcc98324f254404c239d5d2a114e"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/obsolete.txt",
@@ -819,375 +819,331 @@
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/ocean/BaloonHigh.tml",
-                    "checksum": "859e50bee1196fcfcc64251d3e0282fd"
+                    "checksum": "cfb9b5fe7099ac763eda852e30b8994c"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/ocean/BaloonLow.tml",
-                    "checksum": "17720431a742e26fb4471af8e728fa4e"
+                    "checksum": "e064392f9f25da2be9bfae7069b759d6"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/ocean/BaloonVeryLow.tml",
-                    "checksum": "fca32acdd69220f2bc998146216a2b02"
+                    "checksum": "662baa23e8479fa9af2bab7d302e0172"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/Barn-ruined.tml",
-                    "checksum": "4ec281548cfc18e8aa3c7ef4cb9cf53e"
+                    "checksum": "abbff7ff65ce18825b3b8b09823f3eec"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/Barrow.tml",
-                    "checksum": "a973741756c69adbb28a36d886cff589"
+                    "checksum": "06a076f44d60d871c39f33bb94b56967"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/Beacon.tml",
-                    "checksum": "99e80352533af3a7613f68068ecedd91"
+                    "checksum": "b8ea20930190899a6570f105a2e23000"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/BlockHenge.tml",
-                    "checksum": "c5d2261b786b029ad0ac199bd402699e"
+                    "checksum": "68aa0155adcdc5be8d389620145a752b"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/CastleModifiedRuined.tml",
-                    "checksum": "a3c1a98ebfab7ff905583074d6ea77c7"
+                    "checksum": "d0b3494f635edfeccfd6ff651bc5b502"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/GateUnderGlass.tml",
-                    "checksum": "279282a5ce1d3411b873d6e937865236"
+                    "checksum": "747efc48a638bdc845a57d333e7a245a"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/Gazebo.tml",
-                    "checksum": "1e5703f284e499fe2be0696d3fe367e8"
+                    "checksum": "f5608036eb254249d7a38dcdb5f1e279"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/GraveyardHaunted.tml",
-                    "checksum": "c89ffe7d431ed1e953f10d4eff7a2d92"
+                    "checksum": "44b612e97ff70f56153a96ca9d08ce0a"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/GuardHouse.tml",
-                    "checksum": "05b3647681abb8d0c83bf654b8f3a056"
+                    "checksum": "a17b02488022f59be43555fd764febaf"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/Guardian.tml",
-                    "checksum": "6d2ba64087022ce55fff3824d2187959"
+                    "checksum": "7300a279191908ef972578c51a08b4e4"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/GuardianFull.tml",
-                    "checksum": "daa80365cb848c2e3e906921643f71a6"
+                    "checksum": "461bdc1ddcd11ff2156961aff8cec0af"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/HutIntact.tml",
-                    "checksum": "5f0086601020ae767f2b37b91ea96a5b"
+                    "checksum": "c40351a817de20838761259e824d31e8"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/HutRuined.tml",
-                    "checksum": "60e49d480d1fa0c9b31e965038fde129"
+                    "checksum": "57ab4672c8831d7384d974e7fc63ed37"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/LargeStoneHouse.tml",
-                    "checksum": "cb466374c9dde13c2f91109050315890"
+                    "checksum": "386a746baac5beae758290c5478cfadf"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/LargeStoneHouseWBasement.tml",
-                    "checksum": "2bc06f36e31806cbfad39033c44b9575"
+                    "checksum": "feb339453b341e3c73231a4d3b5fef68"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/LargeStoneTwoStoryHouse.tml",
-                    "checksum": "2595813b35def608cbb2b15ee5e6f3b0"
+                    "checksum": "18887bce191a3634bdad1109fa597c77"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/OldFoundation.tml",
-                    "checksum": "05a57de1ad50b488903310ecc1615507"
+                    "checksum": "6d967efc42fef7f749140bd6beebc973"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/PillarBase.tml",
-                    "checksum": "e95d3c298c2eedb90ac8c7bc906ad5a1"
+                    "checksum": "d875bb261ca595c4ac236f3ba57b5c5f"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/Piston-BunkerUnderground.tml",
-                    "checksum": "3a8ad16463d563d959460dbd6568cfb9"
+                    "checksum": "e309628e4dee97e17fa965cc8a0e3f1d"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/PortalShrine.tml",
-                    "checksum": "f44370524bada0ca185c95914632fb08"
+                    "checksum": "6d150ab34d2f6a29b65bb6aa53c2d7c4"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/RuinedTripleFountain.tml",
-                    "checksum": "bfaa8221ced8294daad84b2e2e65c4be"
+                    "checksum": "f7cccc3a8907f855d8a3b893b9b90387"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/ShortTower.tml",
-                    "checksum": "738c56588be1687d3f6f5884a0f615ba"
+                    "checksum": "0b16d5739b00a0ecf8b20692faf649da"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/SmallWell.tml",
-                    "checksum": "7ec966d6c8e57fc8ff9b332f081c89a4"
+                    "checksum": "f814eefe136eb118df008dbb94163d70"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/SpearStatue.tml",
-                    "checksum": "cab9214c5f1a77dd547a41072d043f1d"
+                    "checksum": "c333249b10652998abae7ad571db3b5b"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/Sphere.tml",
-                    "checksum": "df098577b7d64bbb00c914441363059c"
+                    "checksum": "eb29a48a56eb53db3b91c146e5b8a584"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/StoneHenge.tml",
-                    "checksum": "df79bedde8b60c609b67c6a275015e46"
+                    "checksum": "997338548b2f6c36f15135bf560292e2"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/StoneHouse.tml",
-                    "checksum": "f246e3fdde9fe89120d57f509914a2db"
+                    "checksum": "08ac1ec26216f69adb356a523e1efb20"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/StoneHouse_Intact.tml",
-                    "checksum": "8b8a925191bab59d5c53f0a680c79686"
+                    "checksum": "2c8fabe30c47399cb53866b0ce0bf2f8"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/StoneHouse_Ruined.tml",
-                    "checksum": "9be9a0c62c4e1c6a6dc4e225a07f18b1"
+                    "checksum": "6a00b26036f704115ee349d31d99357b"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/StoneHouseM.tml",
-                    "checksum": "2f5d34b44e04bf4002d9feaa53429200"
+                    "checksum": "3975ddb672cae734c86cb8ebe1daaa4b"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/StoneHouseMruined.tml",
-                    "checksum": "417f7bd0239170ad21512458d3bafcc7"
+                    "checksum": "e60c10bcbf6ee44a7d67979b7614a852"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/TallTower.tml",
-                    "checksum": "a37d94c551bd6996e4591cab5256246b"
+                    "checksum": "6c90ba633ed7f52452facc26e0e315bf"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/Tower-edit.tml",
-                    "checksum": "746429656eabc6d2d858ff7659d2f0bb"
+                    "checksum": "3d1e07ae47b4cecb735cf1c762cb3e39"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/Tower-ruined-short.tml",
-                    "checksum": "fb14fcff887d9d39d2282c8a76792de4"
+                    "checksum": "6697129c22665c6e21bf8c41d891d006"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/TowerEasy.tml",
-                    "checksum": "7afa04885f65d9a1ae84b662ae807d8c"
+                    "checksum": "cac3232c13fc7cdaed0808229469c67d"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/TowerMedium.tml",
-                    "checksum": "a5ae8fd3260dcbd9b28403109f977b0e"
+                    "checksum": "8e85ec9c7ae533e225d8e1753782683a"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/VanillaVillageChurch-p.tml",
-                    "checksum": "b4a3fed002b0e9c3f01bda6a9dd9e506"
+                    "checksum": "53a97d0ac15371529c66ebdfabf0d183"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/VanillaVillageChurch-r.tml",
-                    "checksum": "0fbf53a550e2b75444f869b5372fb5d7"
+                    "checksum": "d95b797afb5137092a60babd932f625d"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/VanillaVillageCobble-p.tml",
-                    "checksum": "b57af47d549ca590a75bca2893d3a197"
+                    "checksum": "525ab5f356a77462dc84df182c4fb4a5"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/VanillaVillageCobbleHouse-r.tml",
-                    "checksum": "702fde0ff8b26ca7b3f3bb0e50af0a50"
+                    "checksum": "515bed850a68aac9d2b1aa80f4df7082"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/VanillaVillageEmpty-p.tml",
-                    "checksum": "117ec01f4a966a01a26734273f631f81"
+                    "checksum": "4b81bdba9341ff74bbaa27bc222aa924"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/VanillaVillageEmptyHouse-r.tml",
-                    "checksum": "c47580283b36871f7380895f6684aac4"
+                    "checksum": "cd5c9efe011412359168a5edde8f4cf1"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/VanillaVillageForge-p.tml",
-                    "checksum": "924c8840df2f5b812660ab30bbe0befb"
+                    "checksum": "6572ad0378f4c0e0f395f47b884756cf"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/VanillaVillageForge-r.tml",
-                    "checksum": "5abff43cbc000bcef5146346c6d4e290"
+                    "checksum": "06c984e2d256e9e09d92bea0114bbfda"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/VanillaVillageHut-p.tml",
-                    "checksum": "c0845d570cb4e2e2599922fcfc2568c3"
+                    "checksum": "4166a9cc1a890753285cd16862e010b5"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/VanillaVillageHut-r.tml",
-                    "checksum": "3cb8a08471791223ba92b498d482dfb0"
+                    "checksum": "e66a542a25c041f8b852afcd023e89fd"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/VanillaVillageLadder-p.tml",
-                    "checksum": "430321c06e5ed435ed70de8a2302ed3e"
+                    "checksum": "4fb9a3a1a9325f9a01d2f1c5b0339372"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/VanillaVillageLibrary-p.tml",
-                    "checksum": "d26f0c1a70e3c59845a4ff1570389126"
+                    "checksum": "01730e9fc477de94449b8d7a3bea6a56"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/VanillaVillagePig-p.tml",
-                    "checksum": "350636c445628d6950888f92a01b166e"
+                    "checksum": "5f0782068f1e49f21544dceedd82b935"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/VanillaVillageWell-p.tml",
-                    "checksum": "3aedd80394bccb4a9e34b0b24d567907"
+                    "checksum": "b0d32be188d93934707af2d543c52924"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/WatchtowerIntact.tml",
-                    "checksum": "800cfd890c1d29a67b619971d5688229"
+                    "checksum": "317e3f1f0e0dafb190008d29870e4b60"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/WatchtowerRuined.tml",
-                    "checksum": "f5573900be520dc3116cfa9607b9893b"
+                    "checksum": "99c74ddb385b69e2cef13f06427e11c6"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/WaterTrapRoom.tml",
-                    "checksum": "d2605414f0b3356b75d1ec6437a9ec96"
+                    "checksum": "b5c75dbd7fa2df713fc829e623e2d397"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/WoodHouse2_Intact.tml",
-                    "checksum": "b1ad817c904bcde1fed23f5e88961587"
+                    "checksum": "f55442a80047f348045426d3a4321c81"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/WoodHouse2_Ruined.tml",
-                    "checksum": "edc3cf085946a7e47c9f8e2a21018956"
+                    "checksum": "5e424d53cc334b10680c4dc71d7e0029"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/WoodHouse3_Intact.tml",
-                    "checksum": "f351d922a944ef367f9299646cb71465"
+                    "checksum": "ccb2c971726dabe8a96554af51b1035b"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/WoodHouse3_Ruined.tml",
-                    "checksum": "a8f052bd31a9b34c07127412c63b6ba8"
+                    "checksum": "be2f7b00a1a9e061d4bb8fc0961938a3"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/WoodHouse_Intact.tml",
-                    "checksum": "569dcabc63359f4fca7a4007610da152"
+                    "checksum": "7ee544751e90a3cc3259c393d8dba659"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/plains/WoodHouse_Ruined.tml",
-                    "checksum": "34aa7f4b201835293e3918948c57ec83"
+                    "checksum": "78b3d2fa91c1cfb68d7ddc5d281ddf1e"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/river/BridgePilings-lg2.tml",
-                    "checksum": "ee750f02964f7c21802cf8f90d6ba110"
+                    "checksum": "e2ff0b60f41032cf154140d74955de71"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/river/BridgePilings-sm2.tml",
-                    "checksum": "0afd43117e79da049920be0451466fc9"
+                    "checksum": "2f858f4e4ac1e2e35170789abf60d47f"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/river/BridgePilings-small.tml",
-                    "checksum": "e5221182bc3f6f26a5b5b871d36c3567"
+                    "checksum": "f94220e69c6556d290608cd6dfcc7681"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/river/BridgePilings-small_river.tml",
-                    "checksum": "048d5d79b0170f0d9b2303264ac99cf1"
+                    "checksum": "273b454ecbe534c11824d71ecd6fec57"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/river/BridgePilings2_river.tml",
-                    "checksum": "98103c9f6633c83e515aba1f4b51cd28"
+                    "checksum": "325788a6e4a5e43e21f2e8665a142ee8"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/sky/EnderStatueHigh.tml",
-                    "checksum": "481036079228dabf40ad3dd7deb7ca62"
+                    "checksum": "7889ed56d37b827689cac9ed2c8dc567"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/sky/EnderStatueLow.tml",
-                    "checksum": "b072805f2d803706f88d57c7bcca3936"
+                    "checksum": "a4a82914e95b1890c397f5209d18b09b"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/sky/EnderStatueMedHigh.tml",
-                    "checksum": "a9f23943135b7c5a8df9de3e5ca64031"
+                    "checksum": "2be485cbdeed95d320dca6c4f547b368"
                 },
                 {
                     "path": "mods/resources/ruins/obsolete/sky/EnderStatueMedLow.tml",
-                    "checksum": "296ece20d5dc4cfd3207d1f9c304f66e"
-                },
-                {
-                    "path": "mods/resources/ruins/obsolete/snow forest/FrozenBush.tml",
-                    "checksum": "9c66f1782b5df0682e669b2e1096b622"
-                },
-                {
-                    "path": "mods/resources/ruins/obsolete/snow forest/FrozenTree.tml",
-                    "checksum": "764dfaeb671c16a9443e420af167a335"
-                },
-                {
-                    "path": "mods/resources/ruins/obsolete/snow forest/Igloo.tml",
-                    "checksum": "ea6249a588cb5362709f272273723b11"
-                },
-                {
-                    "path": "mods/resources/ruins/obsolete/snow forest/SnowCastle.tml",
-                    "checksum": "3bac5705b1d70cd75051c3330190d94f"
-                },
-                {
-                    "path": "mods/resources/ruins/obsolete/snow forest/SnowCastleIce.tml",
-                    "checksum": "0c1d43d5c5c0233987f3f079ef7bbcbf"
-                },
-                {
-                    "path": "mods/resources/ruins/obsolete/snow forest/SnowCastleSpire.tml",
-                    "checksum": "7ed5c42947478cb740bf3012019e6bdd"
-                },
-                {
-                    "path": "mods/resources/ruins/obsolete/snow forest/SnowFarm.tml",
-                    "checksum": "0c54329c82f537eddba94e6f1a51fe30"
-                },
-                {
-                    "path": "mods/resources/ruins/obsolete/snow forest/SnowHenge.tml",
-                    "checksum": "803317d8f6985d5d473eb5cdc31edac1"
-                },
-                {
-                    "path": "mods/resources/ruins/obsolete/snow forest/SnowHouse1.tml",
-                    "checksum": "eb788349facad89ddcac5d105e537633"
-                },
-                {
-                    "path": "mods/resources/ruins/obsolete/snow forest/SnowHouse2.tml",
-                    "checksum": "d91fa5dd4afadbfd80e58b237b5af303"
-                },
-                {
-                    "path": "mods/resources/ruins/obsolete/snow forest/SnowHouse3.tml",
-                    "checksum": "0472d195af3437b082da1f0e86eb8239"
+                    "checksum": "0920a6b489cbddb0c1162ca8e5877ad4"
                 },
                 {
                     "path": "mods/resources/ruins/ocean/shipwreck.tml",
-                    "checksum": "45b159af122a4df3acfbab7b3d78ba64"
+                    "checksum": "2b1582cbb2a88b03da068e49d416e2c3"
                 },
                 {
                     "path": "mods/resources/ruins/ocean/SunkenShip-v2.tml",
-                    "checksum": "7ccadfd420c67de1864b745797fe0c8c"
+                    "checksum": "eb5ab62fcfb0d2bc1b337f88d971ba47"
                 },
                 {
                     "path": "mods/resources/ruins/ocean/SunkenShip-v3.tml",
-                    "checksum": "6154f49a15f10393eddf281f21f7b898"
+                    "checksum": "d022afe9230dbd24038c2b4a8536b4dc"
                 },
                 {
                     "path": "mods/resources/ruins/optional/generic/CastleOcean.tml",
-                    "checksum": "9b7e3c5f28dabb40ac592abd736a42ae"
+                    "checksum": "19e2db7a41162b41fa11a5e6d6c29923"
                 },
                 {
                     "path": "mods/resources/ruins/optional/generic/SkyCastle.tml",
-                    "checksum": "0215536191b04f48c2f3dd095e5accb3"
+                    "checksum": "b53c2d95dc4e510dd5075172957f2c8c"
                 },
                 {
                     "path": "mods/resources/ruins/optional/generic/UnderwaterBase.tml",
-                    "checksum": "a915709cababc26c90951d99a78f5948"
+                    "checksum": "1501714c7b118d5e8055fa3561e217ae"
                 },
                 {
                     "path": "mods/resources/ruins/optional/nether/DoomHouse.tml",
-                    "checksum": "95702c66cf81c9b58cf6fee53011c46a"
+                    "checksum": "596b3d26e76330d9887f8a3418d2f527"
                 },
                 {
                     "path": "mods/resources/ruins/optional/nether/DoomTower.tml",
-                    "checksum": "3ee1777d3defc85782f7dcf0c59317df"
+                    "checksum": "4bb81dbf47c711d583159bb7c429bc2f"
                 },
                 {
                     "path": "mods/resources/ruins/optional/nether/LargeNetherHouse.tml",
-                    "checksum": "f899e5bba9711483da8ef908b612aaf2"
+                    "checksum": "0324124752b1f9b8246e6d0909b7b076"
                 },
                 {
                     "path": "mods/resources/ruins/optional/nether/NetherShrine.tml",
-                    "checksum": "8ccda95fdee2bd3a03066d7bd8565137"
+                    "checksum": "bae30c1a9112dfc578bba4887e66351e"
                 },
                 {
                     "path": "mods/resources/ruins/optional/nether/Tower-nether.tml",
-                    "checksum": "283ea8d186aa3712dd30004da81c258a"
+                    "checksum": "0c08e459cdfbd0e8717cd37dcb3fcb97"
                 },
                 {
                     "path": "mods/resources/ruins/optional/optional.txt",
@@ -1195,15 +1151,15 @@
                 },
                 {
                     "path": "mods/resources/ruins/rotation_mappings.txt",
-                    "checksum": "e2d78d37f6fc8454073e5718340786ee"
+                    "checksum": "b126e23ac924c87ad3bf222a3e10f90c"
                 },
                 {
                     "path": "mods/resources/ruins/templateparser/cmdtest.tml",
-                    "checksum": "6fa7dc5a67bcbd05b9025547d6282797"
+                    "checksum": "6438bfa7c3f10436aa11f14b5b204c7f"
                 },
                 {
                     "path": "mods/resources/ruins/templateparser/tester.tml",
-                    "checksum": "fece386e6359db0391ac8ad194066fc7"
+                    "checksum": "e59711d8701f14d31a47efd26b2fafe9"
                 },
                 {
                     "path": "mods/ruins.txt",
@@ -1212,6 +1168,50 @@
                 {
                     "path": "mods/Ruins-1.7.10.jar",
                     "checksum": "f753451f553dc40491ad90ecaa80a586"
+                },
+                {
+                    "path": "mods/resources/ruins/obsolete/snow forest/FrozenBush.tml",
+                    "checksum": "5df885027586d8a206438b0bf343893c"
+                },
+                {
+                    "path": "mods/resources/ruins/obsolete/snow forest/FrozenTree.tml",
+                    "checksum": "e70e66b6e7a60e6e437b15284bfa08ec"
+                },
+                {
+                    "path": "mods/resources/ruins/obsolete/snow forest/Igloo.tml",
+                    "checksum": "eda866d9784b8e7df15b67028dc44ee3"
+                },
+                {
+                    "path": "mods/resources/ruins/obsolete/snow forest/SnowCastle.tml",
+                    "checksum": "b20b9a2a4aebc369747ad08317503640"
+                },
+                {
+                    "path": "mods/resources/ruins/obsolete/snow forest/SnowCastleIce.tml",
+                    "checksum": "6fefe7a27563555bdc2dd8bb0e735aa1"
+                },
+                {
+                    "path": "mods/resources/ruins/obsolete/snow forest/SnowCastleSpire.tml",
+                    "checksum": "7a4e8384c2bee17e0babdab197ec0ab6"
+                },
+                {
+                    "path": "mods/resources/ruins/obsolete/snow forest/SnowFarm.tml",
+                    "checksum": "b179e29e72196bfed93793b4bf9f7739"
+                },
+                {
+                    "path": "mods/resources/ruins/obsolete/snow forest/SnowHenge.tml",
+                    "checksum": "bd6d85ca81967ca4dc5aff703c9e6e49"
+                },
+                {
+                    "path": "mods/resources/ruins/obsolete/snow forest/SnowHouse1.tml",
+                    "checksum": "61a2f49041547a4ca84f011daba51383"
+                },
+                {
+                    "path": "mods/resources/ruins/obsolete/snow forest/SnowHouse2.tml",
+                    "checksum": "9f01077d30e47f947f961377a36f5142"
+                },
+                {
+                    "path": "mods/resources/ruins/obsolete/snow forest/SnowHouse3.tml",
+                    "checksum": "682464f8380d7c85e8beb97a57de9569"
                 }
             ]
         },
@@ -1394,10 +1394,10 @@
         "mods/resources/ruins/glorious eternal credits.txt",
         "mods/ruins_log.txt"
     ],
+    "updaterChecksum": "0775fbd89d0b377a0ea4bc269de19bbe",
     "libraries": [
         "org.javassist:javassist:3.18.2-GA"
     ],
     "mcversion": "1.7.10",
-    "forgeversion": "10.13.0.1205",
-    "updaterChecksum": "0775fbd89d0b377a0ea4bc269de19bbe"
+    "forgeversion": "10.13.0.1205"
 }
