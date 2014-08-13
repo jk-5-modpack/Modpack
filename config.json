@@ -1,0 +1,5 @@
+{
+	"libraries": [
+		"org.javassist:javassist:3.18.2-GA"
+	]
+}
