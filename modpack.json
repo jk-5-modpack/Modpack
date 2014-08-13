@@ -786,7 +786,7 @@
         "mods/resources/ruins/glorious eternal credits.txt",
         "mods/ruins_log.txt"
     ],
-    "updaterChecksum": "8c831120f7c2f36acafc98acda837b64",
+    "updaterChecksum": "e487ec65e1facf80ef17200b9a1e8553",
     "libraries": [
         "org.javassist:javassist:3.18.2-GA"
     ],
