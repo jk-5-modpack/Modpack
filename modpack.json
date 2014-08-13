@@ -1394,12 +1394,10 @@
         "mods/resources/ruins/glorious eternal credits.txt",
         "mods/ruins_log.txt"
     ],
-    "updaterChecksum": "65a68722afefb5c69c7e0ad3994f0d50",
-    "updaterChecksum": "98f732740d578bc3b6d72d0b0ee8f2f3",
     "libraries": [
         "org.javassist:javassist:3.18.2-GA"
     ],
     "mcversion": "1.7.10",
-    "forgeversion": "10.13.0.1199",
-    "updaterChecksum": "ce0a0e58a32f53220441a0b9d2e5c757"
+    "forgeversion": "10.13.0.1205",
+    "updaterChecksum": "0775fbd89d0b377a0ea4bc269de19bbe"
 }
