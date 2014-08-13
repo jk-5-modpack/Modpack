@@ -1396,5 +1396,7 @@
     ],
     "libraries": [
         "org.javassist:javassist:3.18.2-GA"
-    ]
+    ],
+    "mcversion": "1.7.10",
+    "forgeversion": "10.13.0.1199"
 }
