@@ -1398,5 +1398,6 @@
         "org.javassist:javassist:3.18.2-GA"
     ],
     "mcversion": "1.7.10",
-    "forgeversion": "10.13.0.1199"
+    "forgeversion": "10.13.0.1199",
+    "updaterChecksum": "65a68722afefb5c69c7e0ad3994f0d50"
 }
