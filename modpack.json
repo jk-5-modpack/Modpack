@@ -1395,10 +1395,11 @@
         "mods/ruins_log.txt"
     ],
     "updaterChecksum": "65a68722afefb5c69c7e0ad3994f0d50",
+    "updaterChecksum": "98f732740d578bc3b6d72d0b0ee8f2f3",
     "libraries": [
         "org.javassist:javassist:3.18.2-GA"
     ],
     "mcversion": "1.7.10",
     "forgeversion": "10.13.0.1199",
-    "updaterChecksum": "98f732740d578bc3b6d72d0b0ee8f2f3"
+    "updaterChecksum": "ce0a0e58a32f53220441a0b9d2e5c757"
 }
