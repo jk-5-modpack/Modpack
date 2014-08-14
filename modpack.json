@@ -779,6 +779,54 @@
                     "checksum": "b8e2bec4e306659d6a66be581abe58a3"
                 }
             ]
+        },
+        {
+            "modid": "BiblioCraft",
+            "files": [
+                {
+                    "path": "mods/BiblioCraft[v1.7.5][MC1.7.10].jar",
+                    "checksum": "39f3729343bba14ddc9bc794ea97ddc4"
+                },
+                {
+                    "path": "config/BiblioCraft.cfg",
+                    "checksum": "1076cec051a410f054e0eef20d3634bb"
+                }
+            ]
+        },
+        {
+            "modid": "AWWayofTime",
+            "files": [
+                {
+                    "path": "mods/Blood Magic-v1.1.0(1.7.10).jar",
+                    "checksum": "9338ec100db532c69693e7c926c18f09"
+                }
+            ]
+        },
+        {
+            "modid": "Morpheus",
+            "files": [
+                {
+                    "path": "mods/Morpheus-1.7.10-1.5.15.jar",
+                    "checksum": "1dcdf6c21aa1d1dfa172667b0ce6566a"
+                },
+                {
+                    "path": "config/Morpheus.cfg",
+                    "checksum": "ddf5845ae04050d91bc9218d14338e24"
+                }
+            ]
+        },
+        {
+            "modid": "BloodMagic",
+            "files": [
+                {
+                    "path": "config/AWWayofTime.cfg",
+                    "checksum": "b4b4696adf30a6685452b9578fc6be07"
+                },
+                {
+                    "path": "config/BloodMagic/schematics/-856220939.json",
+                    "checksum": "26a94911568269906bb8f857c74f43e8"
+                }
+            ]
         }
     ],
     "ignore": [
