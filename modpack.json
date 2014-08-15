@@ -937,14 +937,26 @@
                     "checksum": "bbfe3889718745d90ab96c24ab92b0fb"
                 }
             ]
+        },
+        {
+            "modid": "MapWriter",
+            "files": [
+                {
+                    "path": "mods/MapWriter-1.7.10-2.2.0.jar",
+                    "checksum": "e31aa92e3ce38fffe1d3701a8030708d"
+                }
+            ]
         }
     ],
     "ignore": [
         "mods/mods.txt",
         "mods/resources/ruins/glorious eternal credits.txt",
-        "mods/ruins_log.txt"
+        "mods/ruins_log.txt",
+        "config/MapWriter.cfg",
+        "config/MapWriterBlockColourOverrides.txt",
+        "config/MapWriterBlockColours.txt"
     ],
-    "updaterChecksum": "e487ec65e1facf80ef17200b9a1e8553",
+    "updaterChecksum": "e915180f210a0af73c3215d19b071aaa",
     "libraries": [
         "org.javassist:javassist:3.18.2-GA"
     ],
