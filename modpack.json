@@ -950,7 +950,7 @@
         "config/InvTweaksRules.txt",
         "config/InvTweaksTree.txt"
     ],
-    "updaterChecksum": "e915180f210a0af73c3215d19b071aaa",
+    "updaterChecksum": "53c762c8f00cd666391c2feaf9b1f785",
     "libraries": [
         "org.javassist:javassist:3.18.2-GA"
     ],
