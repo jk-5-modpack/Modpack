@@ -924,6 +924,19 @@
                     "checksum": "455f2a3c6b0d5dbc3af6c8604044b27f"
                 }
             ]
+        },
+        {
+            "modid": "NetherOres",
+            "files": [
+                {
+                    "path": "mods/NetherOres-[1.7.10]2.3.0RC3-84.jar",
+                    "checksum": "8ae355eb11f20737ab4ceb98c47f7446"
+                },
+                {
+                    "path": "config/powercrystals/netherores/common.cfg",
+                    "checksum": "bbfe3889718745d90ab96c24ab92b0fb"
+                }
+            ]
         }
     ],
     "ignore": [
