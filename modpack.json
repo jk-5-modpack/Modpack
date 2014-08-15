@@ -26,16 +26,16 @@
             "modid": "appliedenergistics2",
             "files": [
                 {
-                    "path": "mods/appliedenergistics2-rv1-alpha-43.jar",
-                    "checksum": "d9304cebc2d906d776071fabe5c17beb"
-                },
-                {
                     "path": "config/AppliedEnergistics2/AppliedEnergistics2.cfg",
                     "checksum": "48c8b908412f25577dc226f3d46db26e"
                 },
                 {
                     "path": "config/AppliedEnergistics2/Facades.cfg",
                     "checksum": "69e2d471122ff6306c14cac88b202047"
+                },
+                {
+                    "path": "mods/appliedenergistics2-rv1-alpha-49.jar",
+                    "checksum": "a360c2dc211ad737af7ac7962e642ebe"
                 }
             ]
         },
