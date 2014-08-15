@@ -840,6 +840,90 @@
                     "checksum": "1e4041898fedc3484ec3399760e6601b"
                 }
             ]
+        },
+        {
+            "modid": "Enchiridion",
+            "files": [
+                {
+                    "path": "mods/Enchiridion-1.7.X-1.2b.jar",
+                    "checksum": "ced990fea06bb533da90afe08ef5a150"
+                },
+                {
+                    "path": "config/books/enchiridion.cfg",
+                    "checksum": "9ba28d425814cc844573f67f3ca0d1a5"
+                }
+            ]
+        },
+        {
+            "modid": "Mariculture",
+            "files": [
+                {
+                    "path": "mods/Mariculture-1.7.10-1.2.3a.jar",
+                    "checksum": "6e7445d5dcb7e65e3fc1f9e2e2b87ed4"
+                },
+                {
+                    "path": "config/mariculture/auto-dictionary.cfg",
+                    "checksum": "a2b1af81e053300ab8952a1c6a20fd93"
+                },
+                {
+                    "path": "config/mariculture/enchantments.cfg",
+                    "checksum": "ae5e0293c6fe569bfa113abe5b40cf49"
+                },
+                {
+                    "path": "config/mariculture/fish-mappings.cfg",
+                    "checksum": "53a5e3e222f7605c3420593dcee9b303"
+                },
+                {
+                    "path": "config/mariculture/fish-mechanics.cfg",
+                    "checksum": "6733ecb108260820d10cda9ad22c0838"
+                },
+                {
+                    "path": "config/mariculture/gardening.cfg",
+                    "checksum": "6e667978241bd9ec9560a6761561d646"
+                },
+                {
+                    "path": "config/mariculture/general-stuff.cfg",
+                    "checksum": "4b2fc4c7fe9c6d6f1dfdffc4784705a0"
+                },
+                {
+                    "path": "config/mariculture/machines.cfg",
+                    "checksum": "9e96d1320e1ee8215d51b37e828b7585"
+                },
+                {
+                    "path": "config/mariculture/modules.cfg",
+                    "checksum": "69c033357bf5a443f8e36482605c82b0"
+                },
+                {
+                    "path": "config/mariculture/vanilla.cfg",
+                    "checksum": "7ae50a91d43c475ba40a111e430d6aac"
+                },
+                {
+                    "path": "config/mariculture/world-generation.cfg",
+                    "checksum": "05c67752a0d5f9bf97812c9d790d00f6"
+                }
+            ]
+        },
+        {
+            "modid": "VillagersNose",
+            "files": [
+                {
+                    "path": "mods/VillagersNose-1.7.10-1.1.jar",
+                    "checksum": "7fffd66bc04a3020f2d0954d1a3797b8"
+                }
+            ]
+        },
+        {
+            "modid": "Witchery",
+            "files": [
+                {
+                    "path": "mods/witchery-1.7.10-0.20.4.jar",
+                    "checksum": "18f985593a05ac911749adb6da5978da"
+                },
+                {
+                    "path": "config/witchery.cfg",
+                    "checksum": "455f2a3c6b0d5dbc3af6c8604044b27f"
+                }
+            ]
         }
     ],
     "ignore": [
