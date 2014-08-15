@@ -192,14 +192,6 @@
                 {
                     "path": "config/InvTweaks.cfg",
                     "checksum": "612b1e7c117a5f79f73f5162354384a8"
-                },
-                {
-                    "path": "config/InvTweaksRules.txt",
-                    "checksum": "3e64f4207f14380b63bf909a3d73d9d4"
-                },
-                {
-                    "path": "config/InvTweaksTree.txt",
-                    "checksum": "a6060b30a4f4c9d601c643b1cbfbcb99"
                 }
             ]
         },
@@ -954,7 +946,9 @@
         "mods/ruins_log.txt",
         "config/MapWriter.cfg",
         "config/MapWriterBlockColourOverrides.txt",
-        "config/MapWriterBlockColours.txt"
+        "config/MapWriterBlockColours.txt",
+        "config/InvTweaksRules.txt",
+        "config/InvTweaksTree.txt"
     ],
     "updaterChecksum": "e915180f210a0af73c3215d19b071aaa",
     "libraries": [
