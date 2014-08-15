@@ -827,6 +827,19 @@
                     "checksum": "26a94911568269906bb8f857c74f43e8"
                 }
             ]
+        },
+        {
+            "modid": "DeathCounter",
+            "files": [
+                {
+                    "path": "mods/DeathCounter-4.0.0.jar",
+                    "checksum": "9fe7a13dae64bee8ca9e8c1278ee4357"
+                },
+                {
+                    "path": "config/DeathCounter.cfg",
+                    "checksum": "1e4041898fedc3484ec3399760e6601b"
+                }
+            ]
         }
     ],
     "ignore": [
