@@ -384,10 +384,6 @@
             "modid": "Railcraft",
             "files": [
                 {
-                    "path": "mods/Railcraft_1.7.10-9.1.0.11.jar",
-                    "checksum": "74728921928304a1fea96b42f91c1633"
-                },
-                {
                     "path": "config/railcraft/blocks.cfg",
                     "checksum": "12fa5514adffee758e483aae8a510509"
                 },
@@ -402,6 +398,10 @@
                 {
                     "path": "config/railcraft/railcraft.cfg",
                     "checksum": "4b2aa95793adfccc634323d30fae69f3"
+                },
+                {
+                    "path": "mods/Railcraft_1.7.10-9.2.2.0.jar",
+                    "checksum": "0d804897855c2db7c079cdab3211b4e0"
                 }
             ]
         },
