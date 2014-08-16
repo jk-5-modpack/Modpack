@@ -115,12 +115,12 @@
             "modid": "ExtraUtilities",
             "files": [
                 {
-                    "path": "mods/extrautilities-1.1.0f.jar",
-                    "checksum": "d1cbc46744c6192a6c63a78e4e0f523a"
-                },
-                {
                     "path": "config/ExtraUtilities.cfg",
                     "checksum": "5091529c8e4e19b50c037fc973666d9d"
+                },
+                {
+                    "path": "mods/extrautilities-1.1.0g.jar",
+                    "checksum": "23b6093354bfe3efdc8d7bee63ca8fde"
                 }
             ]
         },
@@ -355,7 +355,7 @@
                 },
                 {
                     "path": "config/OpenEye.json",
-                    "checksum": "b5ea098e5cd64ecf7e0d71f1ec199374"
+                    "checksum": "b831e5ba383f13875ae50e9f4da044b6"
                 }
             ]
         },
@@ -935,7 +935,7 @@
                 },
                 {
                     "path": "config/ModpackInfo.cfg",
-                    "checksum": "6d39f9e6f897ed595a8e7168b4442415"
+                    "checksum": "4683fc9852111e1cc4993419ed63b213"
                 }
             ]
         },
