@@ -355,7 +355,7 @@
                 },
                 {
                     "path": "config/OpenEye.json",
-                    "checksum": "3f95c6daddb8258b98a5fb1d00ec924e"
+                    "checksum": "b5ea098e5cd64ecf7e0d71f1ec199374"
                 }
             ]
         },
@@ -935,7 +935,20 @@
                 },
                 {
                     "path": "config/ModpackInfo.cfg",
-                    "checksum": "93bebe82689f5abe6ae35bd8bc05c69d"
+                    "checksum": "6d39f9e6f897ed595a8e7168b4442415"
+                }
+            ]
+        },
+        {
+            "modid": "BigReactors",
+            "files": [
+                {
+                    "path": "mods/BigReactors-0.4.0rc2.jar",
+                    "checksum": "4f8f2e1ce4d64a1d573b24bc93aad708"
+                },
+                {
+                    "path": "config/BigReactors/BigReactors.cfg",
+                    "checksum": "8545bed3bb8fb51ef8e4b1d40f9a74b3"
                 }
             ]
         }
@@ -955,5 +968,5 @@
         "org.javassist:javassist:3.18.2-GA"
     ],
     "mcversion": "1.7.10",
-    "forgeversion": "10.13.0.1206"
+    "forgeversion": "10.13.0.1207"
 }
