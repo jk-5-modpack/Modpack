@@ -738,19 +738,6 @@
             ]
         },
         {
-            "modid": "wtp",
-            "files": [
-                {
-                    "path": "mods/whatsthispack-1.7.2-1.0.jar",
-                    "checksum": "86566c17c12c32938f245a44d0e59641"
-                },
-                {
-                    "path": "config/wtp.cfg",
-                    "checksum": "fa4b0a02738368585e9e3b1bc20e74e0"
-                }
-            ]
-        },
-        {
             "modid": "Forge",
             "files": [
                 {
@@ -938,6 +925,19 @@
                     "checksum": "e31aa92e3ce38fffe1d3701a8030708d"
                 }
             ]
+        },
+        {
+            "modid": "ModpackInfo",
+            "files": [
+                {
+                    "path": "mods/ModpackInfo-1.0.0.jar",
+                    "checksum": "52dfe604b41b3d88b4c2cb3d0e1857a9"
+                },
+                {
+                    "path": "config/ModpackInfo.cfg",
+                    "checksum": "93bebe82689f5abe6ae35bd8bc05c69d"
+                }
+            ]
         }
     ],
     "ignore": [
@@ -950,7 +950,7 @@
         "config/InvTweaksRules.txt",
         "config/InvTweaksTree.txt"
     ],
-    "updaterChecksum": "53c762c8f00cd666391c2feaf9b1f785",
+    "updaterChecksum": "6b55dd7f21b86103c1b0ff6325e2d367",
     "libraries": [
         "org.javassist:javassist:3.18.2-GA"
     ],
