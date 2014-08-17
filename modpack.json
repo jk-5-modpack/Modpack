@@ -776,7 +776,7 @@
             "modid": "AWWayofTime",
             "files": [
                 {
-                    "path": "mods/Blood Magic-v1.1.0(1.7.10).jar",
+                    "path": "mods/BloodMagic-v1.1.0(1.7.10).jar",
                     "checksum": "9338ec100db532c69693e7c926c18f09"
                 }
             ]
@@ -956,24 +956,24 @@
             "modid": "flansmod",
             "files": [
                 {
-                    "path": "mods/Flans Mod-1.7.10-4.5.1.jar",
-                    "checksum": "18413f886240bd877e890bb32fbda0b0"
-                },
-                {
                     "path": "config/flansmod.cfg",
                     "checksum": "ef826d4dcca8b1c6e6cd7b54426d3b36"
                 },
                 {
-                    "path": "Flan/Modern Warfare-Content Pack-1.7.10-4.5.0.jar",
+                    "path": "Flan/WW2-Content Pack-1.7.10-4.5.1.jar",
+                    "checksum": "4a264bdea77a79e658cbc6d4adfb46b0"
+                },
+                {
+                    "path": "mods/FlansMod-1.7.10-4.5.1.jar",
+                    "checksum": "18413f886240bd877e890bb32fbda0b0"
+                },
+                {
+                    "path": "Flan/ModernWarfare-Content Pack-1.7.10-4.5.0.jar",
                     "checksum": "172f6493cf4dd0b032de9e3bec56f7d7"
                 },
                 {
-                    "path": "Flan/Simple Parts-Content Pack-1.7.10-4.5.0.jar",
+                    "path": "Flan/SimpleParts-Content Pack-1.7.10-4.5.0.jar",
                     "checksum": "98743501602fa28a62cdb1f29166c30a"
-                },
-                {
-                    "path": "Flan/WW2-Content Pack-1.7.10-4.5.1.jar",
-                    "checksum": "4a264bdea77a79e658cbc6d4adfb46b0"
                 }
             ]
         }
