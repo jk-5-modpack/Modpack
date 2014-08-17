@@ -951,6 +951,31 @@
                     "checksum": "8545bed3bb8fb51ef8e4b1d40f9a74b3"
                 }
             ]
+        },
+        {
+            "modid": "flansmod",
+            "files": [
+                {
+                    "path": "mods/Flans Mod-1.7.10-4.5.1.jar",
+                    "checksum": "18413f886240bd877e890bb32fbda0b0"
+                },
+                {
+                    "path": "config/flansmod.cfg",
+                    "checksum": "ef826d4dcca8b1c6e6cd7b54426d3b36"
+                },
+                {
+                    "path": "Flan/Modern Warfare-Content Pack-1.7.10-4.5.0.jar",
+                    "checksum": "172f6493cf4dd0b032de9e3bec56f7d7"
+                },
+                {
+                    "path": "Flan/Simple Parts-Content Pack-1.7.10-4.5.0.jar",
+                    "checksum": "98743501602fa28a62cdb1f29166c30a"
+                },
+                {
+                    "path": "Flan/WW2-Content Pack-1.7.10-4.5.1.jar",
+                    "checksum": "4a264bdea77a79e658cbc6d4adfb46b0"
+                }
+            ]
         }
     ],
     "ignore": [
@@ -963,7 +988,7 @@
         "config/InvTweaksRules.txt",
         "config/InvTweaksTree.txt"
     ],
-    "updaterChecksum": "6b55dd7f21b86103c1b0ff6325e2d367",
+    "updaterChecksum": "d4642191e0fb998979ef4f7207110ebf",
     "libraries": [
         "org.javassist:javassist:3.18.2-GA"
     ],
